@@ -150,7 +150,7 @@
                             <a href="https://www.pedoimoveis.com.br/condominio/loteamento-santorini/164805"><img class="new_img" src="./imagens/lancamento.jpeg" alt="Imóvel"></a>
                         </div>
                         <a href="https://www.pedoimoveis.com.br/condominio/loteamento-santorini/164805"><div class="new_imgbg">#</div></a>
-                        <div class="new_bgyellow">*</div>
+                        <div class="new_bgyellow"></div>
                         <div class="new_infotop">
                             <strong>Em construção</strong>
                         </div>
@@ -192,7 +192,7 @@
             </header>
 
             <div class="columns is-multiline is-marginless is-12">
-                <div class="column is-3-desktop is-8 --is-flex"> 
+                <div class="column is-3-desktop is-6 --is-flex"> 
                     <div class="card boxshadow">
                         <div class="card-image">
                             <img class="cardimage" src="./imagens/venda1.jpeg" alt="Imóvel">
@@ -200,7 +200,7 @@
                         <div class="codimg has-text-weight-bold">
                             932878
                         </div>
-                        <div class="backazul">*</div>
+                        <div class="bg-casa"></div>
                         <div class="tipoimg has-text-weight-bold">Casa</div>
                         <div class="cimg has-text-weight-bold">
                             RS - Lajeado
@@ -247,16 +247,16 @@
                     </div>
                 </div>
         
-                <div class="column is-3-desktop is-8 --is-flex"> 
+                <div class="column is-3-desktop is-6 --is-flex"> 
                     <div class="card boxshadow">
                         <div class="card-image">
                             <img class="cardimage" src="./imagens/venda2.jpeg" alt="Imóvel">
                             <div class="codimg has-text-weight-bold">
                                 35262
                             </div>
-                            <div class="backazul">*</div>
+                            <div class="bg-casa"></div>
                             <div class="tipoimg has-text-weight-bold">Casa</div>
-                            <div class="backamarelo">*</div>
+                            <div class="backamarelo"></div>
                             <div class="stipoimg has-text-weight-bold">Semimobiliado</div>
                             <div class="cimg has-text-weight-bold">
                                 RS - Lajeado
@@ -303,7 +303,7 @@
                     </div>
                 </div>
             
-                <div class="column is-3-desktop is-8 --is-flex"> 
+                <div class="column is-3-desktop is-6 --is-flex"> 
                     <div class="card boxshadow">
                         <div class="card-image">
                             <a href="https://www.pedoimoveis.com.br/imovel/apartamento-2-dormitorios-a-venda-sao-cristovao-lajeado/36624"><img class="cardimage" src="./imagens/venda3.jpg" alt="Imóvel"></a>
@@ -311,7 +311,7 @@
                         <div class="codimg has-text-weight-bold">
                             356213
                         </div>
-                        <div class="backazul">*</div>
+                        <div class="backazul"></div>
                         <div class="tipoimg has-text-weight-bold">Apartamento</div>
                         <div class="cimg has-text-weight-bold">
                             RS - Lajeado
@@ -359,7 +359,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="column is-3-desktop is-8 --is-flex"> 
+                <div class="column is-3-desktop is-6 --is-flex"> 
                     <div class="card boxshadow">
                         <div class="card-image">
                             <a href="https://www.pedoimoveis.com.br/imovel/apartamento-3-dormitorios-a-venda-americano-lajeado/34534"><img class="cardimage" src="./imagens/venda4.jpg" alt="Imóvel"></a>
@@ -367,7 +367,7 @@
                         <div class="codimg has-text-weight-bold">
                             87323
                         </div>
-                        <div class="backazul">*</div>
+                        <div class="backazul"></div>
                         <div class="tipoimg has-text-weight-bold">Apartamento</div>
                         <div class="cimg has-text-weight-bold ">
                             RS - Lajeado
@@ -442,7 +442,7 @@
                     <div class="codimg has-text-weight-bold">
                         32161
                     </div>
-                    <div class="backazul">*</div>
+                    <div class="bg-casa"></div>
                     <div class="tipoimg has-text-weight-bold">Casa</div>
                     <div class="cimg has-text-weight-bold">
                         RS - Lajeado
@@ -492,37 +492,37 @@
             <div class="column is-3-desktop is-6 --is-flex"> 
                 <div class="card boxshadow">
                     <div class="card-image">
-                        <a href="https://www.pedoimoveis.com.br/imovel/sala-comercial-para-alugar-centro-lajeado/91406"><img class="cardimage" src="./imagens/alugar2.jpeg" alt="Imóvel"></a>
+                        <a href="https://www.pedoimoveis.com.br/imovel/sobrado-3-dormitorios-para-alugar-carneiros-lajeado/53808"><img class="cardimage" src="./imagens/alugar2.jpeg" alt="Imóvel"></a>
                     </div>
                     <div class="codimg has-text-weight-bold">
-                        932878
+                        425632
                     </div>
-                    <div class="backazul">*</div>
-                    <div class="tipoimg has-text-weight-bold">Apartamento</div>
-                    <div class="backamarelo">*</div>
-                    <div class="stipoimg has-text-weight-bold">Exclusivo</div>
+                    <div class="bg-casa"></div>
+                    <div class="tipoimg has-text-weight-bold">Casa</div>
                     <div class="cimg has-text-weight-bold">
                         RS - Lajeado
                     </div>
                     <div class="card-content">
                         <div class="content">
-                            <p class="title is-4">Centro</p>
-                            <p class="subtitle is-6">Rua Saldanha Marinho </p>
-                            <p>Excelente sala comercial com ótima localização no centro de Lajeado  </p>
+                            <p class="title is-4">Hidráulica</p>
+                            <p>Eu te entendo, morar em casa é uma delícia..... Esta casa foi inteiramente reformada há alguns ano...</p>
                         </div>
                         <hr class="my-4">
                         <div class="columns is-marginless is-mobile">
                             <div class="column">
                                 <span class="icon-text">
-                                    <span ><h5>2</h5></span>
+                                    <span ><h5>3</h5></span>
                                     <span class="icon">
                                         <i class="fas fa-bed"></i>
                                     </span>
+                                    <p class="block">
+                                        2 suíte
+                                    </p>
                                 </span>
                             </div>
                             <div class="column">
                                 <span class="icon-text">
-                                    <span ><h5>2</h5></span>
+                                    <span ><h5>5</h5></span>
                                     <span class="icon">
                                     <i class="fas fa-bath"></i>
                                     </span>
@@ -530,7 +530,7 @@
                             </div>
                             <div class="column">
                                 <span class="icon-text">
-                                    <span >1</span>
+                                    <span >2</span>
                                     <span class="icon">
                                         <i class="fas fa-car"></i>
                                     </span>
@@ -540,7 +540,7 @@
                         <hr class="my-4">
                         <div>
                             <h6 class="venda">Locação</h6>
-                            <h5 class="numerov"><strong>R$ 1.000</strong></h5>
+                            <h5 class="numerov"><strong>R$ 4.200</strong></h5>
                         </div>
                     </div>
                 </div>
@@ -554,9 +554,9 @@
                     <div class="codimg has-text-weight-bold">
                         43525
                     </div>
-                    <div class="backazul">*</div>
+                    <div class="backazul"></div>
                     <div class="tipoimg has-text-weight-bold">Apartamento</div>
-                    <div class="backamarelo">*</div>
+                    <div class="backamarelo"></div>
                     <div class="stipoimg has-text-weight-bold">Semimobiliado</div>
                     <div class="cimg has-text-weight-bold">
                         RS - Lajeado
@@ -609,7 +609,7 @@
                     <div class="codimg has-text-weight-bold">
                         65382
                     </div>
-                    <div class="backazul">*</div>
+                    <div class="backazul"></div>
                     <div class="tipoimg has-text-weight-bold">Sala Comercial</div>
                     <div class="cimg has-text-weight-bold">
                         RS - Lajeado
@@ -651,7 +651,7 @@
 
             <div class="columns is-marginless">
                 <div class="column is-6 --is-flex "> 
-                    <div class="card boxshadow" style="margin-left: 15px;">
+                    <div class="card boxshadow" >
                         <div class="card-image">
                             <figure class="image is-3by2"><a href="https://www.pedoimoveis.com.br/blog/2021/2/8/como-escolher-a-sala-ideal-para-o-seu-negocio-2299"><img class="cardimage" src="./imagens/post1.jpg" alt="Imóvel"></a></figure>
                         </div>
@@ -666,7 +666,7 @@
                 </div>
             
                 <div class="column is-6 --is-flex"> 
-                    <div class="card boxshadow " style="margin-right: 15px;">
+                    <div class="card boxshadow " >
                         <div class="card-image">
                             <figure class="image is-3by2"><a href="https://www.pedoimoveis.com.br/blog/2020/11/23/o-que-e-casa-verde-e-amarela-2174"><img class="cardimage" src="./imagens/post2.png" alt="Post"></a></figure>
                         </div>
@@ -1153,6 +1153,14 @@ body{
     background-color: transparent;
 }
 
+.navbar-burger:hover{
+    background-color: transparent!important;;
+}
+
+.navbar-burger{
+    cursor: initial;
+}
+
 
 /* Carrossel */
 
@@ -1368,7 +1376,6 @@ body{
     width: 151px;
     height: 39px;
     background-color: #ffcc00;
-    color: transparent;
     border-radius: 0px 7px 7px 0px;
 }
 .new_infotop strong{
@@ -1455,10 +1462,10 @@ hr{
     position: absolute;
     top: 49px;
     left: 0px;
-    color: transparent;
     background-color: #ffCC00;
     border-radius: 0px 6px 6px 0px; 
     width: 139px;
+    height: 24px;
 }
 
 .cimg{
@@ -1502,10 +1509,20 @@ hr{
     position: absolute;
     top: 20px;
     left: 0px;
-    color: transparent;
     background-color: #0F218A;
     border-radius: 0px 6px 6px 0px;    
     width: 130px;
+    height: 24px;
+}
+
+.bg-casa{
+    position: absolute;
+    top: 20px;
+    left: 0px;
+    background-color: #0F218A;
+    border-radius: 0px 6px 6px 0px;    
+    width: 53px;
+    height: 24px;
 }
 
 .numerov{
